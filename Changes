@@ -1,0 +1,6 @@
+Revision history for Perl extension Catalyst::Plugin::AjaxTags.
+
+0.01  Wed Dec  6 01:09:25 2006
+	- original version; created by h2xs 1.23 with options
+		-Xn Catalyst::Plugin::AjaxTags
+
