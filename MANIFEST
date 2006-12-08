@@ -4,3 +4,4 @@ MANIFEST
 README
 t/Catalyst-Plugin-AjaxTags.t
 lib/Catalyst/Plugin/AjaxTags.pm
+META.yml
