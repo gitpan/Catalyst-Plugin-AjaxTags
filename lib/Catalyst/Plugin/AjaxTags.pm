@@ -22,9 +22,10 @@ package Catalyst::Plugin::AjaxTags;
 
 use strict;
 use warnings;
+use HTML::AjaxTags::TT;
 use base 'Class::Data::Inheritable';
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 __PACKAGE__->mk_classdata('ajaxtags');
 
